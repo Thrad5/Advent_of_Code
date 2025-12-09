@@ -5,7 +5,7 @@ Created on Sun Dec  07 20:30:33 (GMT: +00:00 ) 2025
 """
 import hashlib
 def main():
-    inp = 'iwrupvqb'
+    inp = 'abcdefg'
     ans = 1
     to_md5 = inp + str(ans)
     md5 = hashlib.md5(to_md5.encode('utf-8')).hexdigest()
