@@ -1,0 +1,69 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\!Advent_of_Code\\2024\\AoC_day_19\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2DD5AE6C-EFD9-4330-AD0F-F5753E595841}|AoC_day_19\\AoC_day_19.vcxproj|D:\\!Advent_of_Code\\2024\\AoC_day_19\\AoC_day_19\\AoC_day_19.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2DD5AE6C-EFD9-4330-AD0F-F5753E595841}|AoC_day_19\\AoC_day_19.vcxproj|solutionrelative:AoC_day_19\\AoC_day_19.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Visual Studio\\2022\\VC\\Tools\\MSVC\\14.41.34120\\include\\xstring||{3B902123-F8A7-4915-9F01-361F908088D0}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\!Advent_of_Code\\2024\\AoC_day_23\\AoC_day_23\\AoC_day_23.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "xstring",
+              "DocumentMoniker": "D:\\Visual Studio\\2022\\VC\\Tools\\MSVC\\14.41.34120\\include\\xstring",
+              "RelativeDocumentMoniker": "..\\..\\..\\Visual Studio\\2022\\VC\\Tools\\MSVC\\14.41.34120\\include\\xstring",
+              "ToolTip": "D:\\Visual Studio\\2022\\VC\\Tools\\MSVC\\14.41.34120\\include\\xstring",
+              "RelativeToolTip": "..\\..\\..\\Visual Studio\\2022\\VC\\Tools\\MSVC\\14.41.34120\\include\\xstring",
+              "ViewState": "AgIAALwBAAAAAAAAAAAswM4BAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-12-25T02:23:22.885Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AoC_day_23.cpp",
+              "DocumentMoniker": "D:\\!Advent_of_Code\\2024\\AoC_day_23\\AoC_day_23\\AoC_day_23.cpp",
+              "RelativeDocumentMoniker": "..\\AoC_day_23\\AoC_day_23\\AoC_day_23.cpp",
+              "ToolTip": "D:\\!Advent_of_Code\\2024\\AoC_day_23\\AoC_day_23\\AoC_day_23.cpp",
+              "RelativeToolTip": "..\\AoC_day_23\\AoC_day_23\\AoC_day_23.cpp",
+              "ViewState": "AgIAAGkAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-24T22:46:33.202Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AoC_day_19.cpp",
+              "DocumentMoniker": "D:\\!Advent_of_Code\\2024\\AoC_day_19\\AoC_day_19\\AoC_day_19.cpp",
+              "RelativeDocumentMoniker": "AoC_day_19\\AoC_day_19.cpp",
+              "ToolTip": "D:\\!Advent_of_Code\\2024\\AoC_day_19\\AoC_day_19\\AoC_day_19.cpp*",
+              "RelativeToolTip": "AoC_day_19\\AoC_day_19.cpp*",
+              "ViewState": "AgIAADYAAAAAAAAAAAAAABIAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-19T22:54:36.123Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

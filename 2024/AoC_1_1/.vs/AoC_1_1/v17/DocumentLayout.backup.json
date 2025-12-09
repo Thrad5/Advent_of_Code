@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\!Advent_of_Code\\2024\\AoC_1_1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8170CD14-3823-4145-A8B7-830FB3E1557C}|AoC_1_1\\AoC_1_1.vcxproj|D:\\!Advent_of_Code\\2024\\AoC_1_1\\AoC_1_1\\AoC_1_1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{8170CD14-3823-4145-A8B7-830FB3E1557C}|AoC_1_1\\AoC_1_1.vcxproj|solutionrelative:AoC_1_1\\AoC_1_1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AoC_1_1.cpp",
+              "DocumentMoniker": "D:\\!Advent_of_Code\\2024\\AoC_1_1\\AoC_1_1\\AoC_1_1.cpp",
+              "RelativeDocumentMoniker": "AoC_1_1\\AoC_1_1.cpp",
+              "ToolTip": "D:\\!Advent_of_Code\\2024\\AoC_1_1\\AoC_1_1\\AoC_1_1.cpp*",
+              "RelativeToolTip": "AoC_1_1\\AoC_1_1.cpp*",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwBMAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-01T20:15:21.722Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

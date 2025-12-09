@@ -1,0 +1,11 @@
+digraph{
+a [label = "%a"];
+b [label = "%b"];
+c [label = "%c"];
+inv [label = "&inv"];
+broadcaster -> {a, b, c}
+a -> b;
+b -> c;
+c -> inv;
+inv -> a;
+}

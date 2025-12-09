@@ -1,0 +1,5 @@
+﻿  AoC_7.cpp
+D:\!Advent_of_Code\2023\day_7\AoC_7\AoC_7\AoC_7.cpp(11,23): warning C4018: '<': signed/unsigned mismatch
+D:\!Advent_of_Code\2023\day_7\AoC_7\AoC_7\AoC_7.cpp(234,31): warning C4018: '<': signed/unsigned mismatch
+D:\!Advent_of_Code\2023\day_7\AoC_7\AoC_7\AoC_7.cpp(225,9): warning C4101: 'rank': unreferenced local variable
+  AoC_7.vcxproj -> D:\!Advent_of_Code\2023\day_7\AoC_7\Debug\AoC_7.exe

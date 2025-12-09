@@ -1,0 +1,4 @@
+﻿  AoC_Day_1_1.cpp
+D:\!Advent_of_Code\2023\day_1\AoC_Day_1_1\AoC_Day_1_1\AoC_Day_1_1.cpp(21,31): warning C4018: '<': signed/unsigned mismatch
+D:\!Advent_of_Code\2023\day_1\AoC_Day_1_1\AoC_Day_1_1\AoC_Day_1_1.cpp(90,31): warning C4018: '<': signed/unsigned mismatch
+  AoC_Day_1_1.vcxproj -> D:\!Advent_of_Code\2023\day_1\AoC_Day_1_1\Debug\AoC_Day_1_1.exe
